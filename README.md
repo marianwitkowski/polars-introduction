@@ -1,5 +1,7 @@
 # Polars - podstawowe operacje na obiektach DataFrame
 
+<img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars_github_logo_rect_dark_name.svg" width="600" />
+<p></p>
 
 - <b>Najczęstsze operacje i techniki manulacji na obiektach DataFrame w Polars:</b> <a href='polars_operations.ipynb'>polars_operations.ipynb</a> 
   - ładowanie danych z CSV
